@@ -12,7 +12,7 @@ Fuse：整合支流的信息，然后获得selection weights；
 
 Select ：通过selection weights来聚合feature map。
 
-![](/Users/lvjian02/Desktop/SKNet-paddle/Selective_Kernel.png)
+![](./Selective_Kernel.png)
 
 **论文:**
 
